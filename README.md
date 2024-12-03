@@ -36,8 +36,8 @@ ServeXpert is designed to deliver a seamless experience on mobile devices, ensur
 ## 📧 Contact Us  
 
 Have questions or need support? We’re here to help:  
-- **Email**: support@servexpert.com  
-- **Website**: [www.servexpert.com](https://www.servexpert.com)  
+- **Email**: support@servexpert.co  
+- **Website**: [www.servexpert.co](https://www.servexpert.co)  
 
 ---
 
