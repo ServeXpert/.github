@@ -1,6 +1,6 @@
 # ServeXpert  
 
-Welcome to **ServeXpert** – Your trusted marketplace for local services.  
+Welcome to **WholesaleHub** – Your trusted marketplace for local services.  
 
 ---
 
